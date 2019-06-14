@@ -37,11 +37,11 @@ let data = {
 
 class Spreadsheet extends Component {
     render() {
-        let tableContent = data.rows.map(row => {
-            return <View style={styles.tableRow}>
-                {row.map(cell => {
-                        return <View style={{width: "25%"}}>
-                            <Text style={{color: 'black', fontSize: 14}}>
+        let tableContent = data.rows.map((row, rowIndex) => {
+            return <View style={rowIndex === 0 ? styles.tableHeader : styles.tableRow}>
+                {row.map((cell, cellIndex) => {
+                        return <View style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
+                            <Text style={rowIndex === 0 ? {color: 'black', fontSize: 14} : {color: 'black', fontSize: 14, fontWeight: 'bold'}}>
                             {cell}</Text>
                         </View>
                     }
@@ -50,7 +50,7 @@ class Spreadsheet extends Component {
         });
 
 
-        return <View style={{width: '100%'}}>
+        return <View style={{width: '95%'}}>
             {tableContent}
         </View>
     }
@@ -59,6 +59,11 @@ class Spreadsheet extends Component {
 const styles = StyleSheet.create({
     tableRow: {
         flexDirection: 'row'
+    },
+    tableHeader: {
+        flexDirection: 'row',
+        borderBottomWidth: 1,
+        marginBottom: 4
     },
 });
 
