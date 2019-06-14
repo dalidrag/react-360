@@ -12,7 +12,17 @@ let data = {
 
 import {ReactInstance, Surface} from 'react-360-web';
 
-const myFlatSurface = new Surface(
+const spreadSheetSurface1 = new Surface(
+    300, //
+    600, // height
+    Surface.SurfaceShape.Flat //
+);
+const spreadSheetSurface2 = new Surface(
+    300, //
+    600, // height
+    Surface.SurfaceShape.Flat //
+);
+const spreadSheetSurface3 = new Surface(
     300, //
     600, // height
     Surface.SurfaceShape.Flat //
@@ -25,7 +35,9 @@ function init(bundle, parent, options = {}) {
     ...options,
   });
 
-  myFlatSurface.setAngle(-0.6, 0);
+  spreadSheetSurface1.setAngle(-0.6, 0);
+  spreadSheetSurface2.setAngle(0, 0);
+  spreadSheetSurface3.setAngle(0.6, 0);
   // Render your app content to the default cylinder surface
   const s = r360.getDefaultSurface();
   s.resize(0, 0);
@@ -40,9 +52,19 @@ function init(bundle, parent, options = {}) {
 
   r360.renderToSurface(
       r360.createRoot('react360visualization', {data: data}),
-      myFlatSurface,
-      'flat_1' // optional, a name to reference the surface
+      spreadSheetSurface1,
+      'flat_spreadSheetSurface1' // optional, a name to reference the surface
   );
+    r360.renderToSurface(
+        r360.createRoot('react360visualization', {data: data}),
+        spreadSheetSurface2,
+        'flat_spreadSheetSurface2' // optional, a name to reference the surface
+    );
+    r360.renderToSurface(
+        r360.createRoot('react360visualization', {data: data}),
+        spreadSheetSurface3,
+        'flat_spreadSheetSurface3' // optional, a name to reference the surface
+    );
 
   // Load the initial environment
   r360.compositor.setBackground(r360.getAssetURL('360_world.jpg'));
