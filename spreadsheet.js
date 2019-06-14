@@ -38,20 +38,28 @@ let data = {
 class Spreadsheet extends Component {
     render() {
         let tableContent = data.rows.map(row => {
-            return <View>
+            return <View style={styles.tableRow}>
                 {row.map(cell => {
-                        return <Text>
+                        return <View style={{width: "25%"}}>
+                            <Text style={{color: 'black', fontSize: 14}}>
                             {cell}</Text>
+                        </View>
                     }
                 )}
             </View>
         });
 
 
-        return <View>
+        return <View style={{width: '100%'}}>
             {tableContent}
         </View>
     }
 }
+
+const styles = StyleSheet.create({
+    tableRow: {
+        flexDirection: 'row'
+    },
+});
 
 export default Spreadsheet;
