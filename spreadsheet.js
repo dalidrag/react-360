@@ -17,14 +17,7 @@ import {
     letterNumberHeads: false
 };*/
 
-let data = {
-    rows: [
-        ['Customer', 'Job', 'Contact', 'City', 'Revenue'],
-        ['iDiscovery', 'Build', 'John Doe', 'Boston, MA', '500,000'],
-        ['SxSW', 'Build', 'Tom Fuller', 'San Francisco, CA', '600,000'],
-        ['CapitalTwo', 'Failed', 'Eric Pixel', 'Seattle, WA', '450,000']
-    ]
-};
+
 
 /*let cellClasses = {
     rows: [
@@ -37,7 +30,7 @@ let data = {
 
 class Spreadsheet extends Component {
     render() {
-        let tableContent = data.rows.map((row, rowIndex) => {
+        let tableContent = this.props.data.rows.map((row, rowIndex) => {
             return <View style={rowIndex === 0 ? styles.tableHeader : styles.tableRow}>
                 {row.map((cell, cellIndex) => {
                         return <View style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>

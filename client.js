@@ -1,6 +1,15 @@
 // This file contains the boilerplate to execute your React app.
 // If you want to modify your application's content, start in "index.js"
 
+let data = {
+    rows: [
+        ['Customer', 'Job', 'Contact', 'City', 'Revenue'],
+        ['iDiscovery', 'Build', 'John Doe', 'Boston, MA', '500,000'],
+        ['SxSW', 'Build', 'Tom Fuller', 'San Francisco, CA', '600,000'],
+        ['CapitalTwo', 'Failed', 'Eric Pixel', 'Seattle, WA', '450,000']
+    ]
+};
+
 import {ReactInstance, Surface} from 'react-360-web';
 
 const myFlatSurface = new Surface(
@@ -30,7 +39,7 @@ function init(bundle, parent, options = {}) {
 
 
   r360.renderToSurface(
-      r360.createRoot('react360visualization'),
+      r360.createRoot('react360visualization', {data: data}),
       myFlatSurface,
       'flat_1' // optional, a name to reference the surface
   );

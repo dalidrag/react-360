@@ -11,7 +11,7 @@ export default class react360visualization extends React.Component {
   render() {
     return (
       <View style={styles.panel}>
-        <Spreadsheet />
+        <Spreadsheet data = {this.props.data}/>
       </View>
     );
   }
