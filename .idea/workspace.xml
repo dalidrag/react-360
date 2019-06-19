@@ -2,887 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96dd3580-1f06-4eed-a1f6-67dae404a6ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/Click.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/backspace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f0cf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f171.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f17e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f17f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f18e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f191.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f193.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f194.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f195.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f199.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f19a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1e6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1e8-1f1f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1e8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1e9-1f1ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1e9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ea-1f1f8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1eb-1f1f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1eb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ec-1f1e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ee-1f1f9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ef-1f1f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ef.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f0-1f1f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f7-1f1fa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1f9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1fa-1f1f8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1fa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1fc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1fd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1fe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f1ff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f201.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f202.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f21a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f22f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f235.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f237.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f238.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f239.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f23a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f250.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f251.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f301.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f302.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f303.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f304.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f305.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f306.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f307.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f308.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f309.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f30a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f30b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f30c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f30d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f30e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f30f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f311.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f313.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f314.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f315.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f317.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f318.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f319.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f31a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f31b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f31c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f31d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f31e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f31f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f330.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f331.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f334.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f335.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f337.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f338.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f33a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f33b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f33c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f33d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f33e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f33f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f340.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f341.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f342.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f343.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f344.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f345.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f346.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f347.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f348.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f349.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f34a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f34b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f34c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f34d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f34e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f34f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f351.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f352.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f353.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f354.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f355.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f356.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f357.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f358.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f35a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f35b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f35c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f35d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f35e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f35f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f360.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f362.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f363.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f364.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f365.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f366.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f367.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f368.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f369.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f36a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f36b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f36c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f36d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f36e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f36f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f370.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f371.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f372.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f373.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f374.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f375.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f376.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f377.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f378.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f379.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f37a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f37b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f37c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f380.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f381.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f382.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f383.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f385.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f387.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f388.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f389.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f38a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f38b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f38c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f38d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f38e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f38f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f390.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f391.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f392.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f393.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3a9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ae.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3af.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3b9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3bd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3be.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3bf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3c9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ca.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3e9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3eb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3ef.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f3f0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f401.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f402.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f403.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f405.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f406.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f407.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f408.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f409.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f40a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f40b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f40c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f40d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f40e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f40f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f411.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f412.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f413.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f414.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f415.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f416.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f417.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f418.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f419.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f41a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f41b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f41c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f41d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f41e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f41f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f420.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f421.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f422.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f423.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f424.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f425.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f426.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f427.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f428.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f429.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f42a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f42b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f42c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f42d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f42e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f42f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f430.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f431.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f432.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f433.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f434.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f435.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f436.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f437.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f438.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f439.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f43a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f43b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f43c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f43d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f43e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f442.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f443.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f444.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f445.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f446.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f447.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f448.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f449.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f44a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f44b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f44c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f44d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f44e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f44f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f451.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f453.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f454.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f455.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f456.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f458.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f459.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f45a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f45b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f45c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f45d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f45e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f45f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f460.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f461.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f462.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f463.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f464.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f465.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f466.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f467.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f468.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f469.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f46a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f46b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f46c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f46d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f46e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f46f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f470.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f471.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f472.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f473.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f474.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f475.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f476.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f477.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f478.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f479.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f47a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f47b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f47c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f47d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f47e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f47f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f480.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f481.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f482.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f483.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f484.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f485.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f486.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f487.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f488.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f489.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f48a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f48b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f48c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f48d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f48e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f48f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f490.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f491.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f492.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f493.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f494.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f495.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f496.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f497.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f498.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f499.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f49a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f49b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f49c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f49d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f49e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f49f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4a9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ae.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4af.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4b9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4bd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4be.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4bf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4c9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ca.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4cb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4cc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4cd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4cf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4d9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4da.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4db.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4dc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4dd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4df.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4e9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4eb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4ef.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4f9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4fa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f4fc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f501.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f503.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f504.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f507.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f50a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f50b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f50c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f50d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f50e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f50f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f510.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f511.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f513.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f514.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f515.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f517.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f518.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f519.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f51a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f51b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f51c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f51d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f51e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f51f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f520.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f521.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f522.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f523.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f524.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f525.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f526.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f527.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f528.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f529.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f52a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f52b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f52c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f52d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f52e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f52f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f530.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f531.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f532.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f533.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f534.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f535.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f536.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f537.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f538.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f539.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f53a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f53b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f53c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f53d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f550.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f551.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f552.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f553.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f554.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f555.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f556.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f557.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f558.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f559.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f55a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f55b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f55c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f55d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f55e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f55f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f560.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f561.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f562.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f563.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f564.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f565.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f566.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f567.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f5fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f5fc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f5fd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f5fe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f5ff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f600.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f601.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f602.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f603.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f604.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f605.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f606.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f607.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f608.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f609.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f60a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f60b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f60c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f60d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f60e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f60f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f610.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f611.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f612.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f613.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f615.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f616.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f617.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f618.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f619.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f61a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f61b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f61c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f61d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f61e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f61f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f620.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f621.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f622.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f623.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f624.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f625.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f626.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f627.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f628.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f629.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f62a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f62b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f62c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f62d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f62e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f62f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f630.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f631.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f632.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f633.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f634.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f635.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f636.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f637.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f638.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f639.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f63a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f63b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f63c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f63d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f63e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f63f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f640.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f645.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f646.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f647.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f648.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f649.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f64a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f64b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f64c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f64d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f64e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f64f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f680.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f681.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f682.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f683.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f684.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f685.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f686.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f687.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f688.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f689.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f68a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f68b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f68c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f68d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f68e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f68f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f690.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f691.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f692.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f693.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f694.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f695.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f696.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f697.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f698.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f699.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f69a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f69b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f69c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f69d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f69e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f69f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6a9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6ab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6ac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6ae.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6af.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6b9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6ba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6bd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6be.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6bf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/1f6c5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/203c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2049.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2194.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2195.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2199.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/21a9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/21aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/231a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/231b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23e9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23eb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23ec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23f0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/23f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/24c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25ab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25b6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25fc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25fd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/25fe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2600.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2601.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/260e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2611.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2615.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/261d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/263a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2648.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2649.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/264a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/264b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/264c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/264d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/264e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/264f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2650.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2651.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2652.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2653.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2660.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2663.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2665.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2666.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2668.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/267b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/267f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2693.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26ab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26bd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26be.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26c5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26d4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26f2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26fa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/26fd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2702.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2705.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2708.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2709.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/270a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/270b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/270c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/270f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2712.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2714.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2728.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2734.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2744.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2747.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/274c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/274e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2754.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2755.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2757.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2764.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2795.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2796.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2797.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/27a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/27b0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/27bf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2934.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2935.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b1b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b1c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/2b55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/30-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/3030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/303d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/31-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/32-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/3297.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/3299.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/33-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/34-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/35-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/36-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/37-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/38-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/39-20e3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/a9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/ae.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/emoji/e50a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/mic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/shift-active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/shift.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_assets/react-360-keyboard/x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spreadsheet.js" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheet.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -899,11 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spreadsheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-575">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -920,8 +39,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="34">
               <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -929,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="414">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#139#192#0" expanded="true" />
@@ -952,11 +83,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spreadsheet.js" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/spreadsheetdata.js" />
         <option value="$PROJECT_DIR$/react-360-keyboard-master/react-360-keyboard/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/spreadsheet.js" />
         <option value="$PROJECT_DIR$/client.js" />
       </list>
     </option>
@@ -996,17 +127,6 @@
               <item name="react360visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="react360visualization" type="462c0819:PsiDirectoryNode" />
               <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="react-360-keyboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react360visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react360visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="react-360-keyboard-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react360visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react360visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="react-360-keyboard-master" type="462c0819:PsiDirectoryNode" />
               <item name="react-360-keyboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -1076,18 +196,18 @@
       <workItem from="1560529293133" duration="1161000" />
       <workItem from="1560675506354" duration="2278000" />
       <workItem from="1560842825343" duration="90000" />
-      <workItem from="1560942894950" duration="976000" />
+      <workItem from="1560942894950" duration="2722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13006000" />
+    <option name="totallyTimeSpent" value="14752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48918468" visible="true" weight="0.17913593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48918468" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.5108153" side_tool="true" weight="0.17913593" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1101,7 +221,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1114,22 +234,29 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/react-360-keyboard-master/react-360-keyboard/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-360-keyboard/Key.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1141,27 +268,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="-575">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-360-keyboard-master/react-360-keyboard/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-360-keyboard/Key.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="414">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#139#192#0" expanded="true" />

@@ -37,9 +37,9 @@ function init(bundle, parent, options = {}) {
   //     surface to ensure the keyboard is rendered on top of your scene
   KeyboardModule.setInstance(r360);
 
-  spreadSheetSurface1.setAngle(-0.6, 0);
-  spreadSheetSurface2.setAngle(0, 0);
-  spreadSheetSurface3.setAngle(0.6, 0);
+  spreadSheetSurface1.setAngle(-1.4, 0);
+  spreadSheetSurface2.setAngle(-0.8, 0);
+  spreadSheetSurface3.setAngle(0.8, 0);
   // Render your app content to the default cylinder surface
   const s = r360.getDefaultSurface();
   s.resize(0, 0);

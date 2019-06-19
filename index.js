@@ -5,6 +5,9 @@ import {
   Text,
   View,
 } from 'react-360';
+
+import {registerKeyboard} from 'react-360-keyboard';
+
 import Spreadsheet from "./spreadsheet";
 
 export default class react360visualization extends React.Component {
@@ -50,4 +53,5 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('react360visualization', () => react360visualization);
+AppRegistry.registerComponent(...registerKeyboard);
 // AppRegistry.registerComponent('spreadsheet', () => Spreadsheet3D);

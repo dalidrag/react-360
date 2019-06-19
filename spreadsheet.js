@@ -3,6 +3,7 @@ import {
     StyleSheet,
     Text,
     View,
+    NativeModules
 } from 'react-360';
 /*let spreadsheetConfig = {
     rows: 5,
@@ -29,11 +30,18 @@ import {
 };*/
 
 class Spreadsheet extends Component {
+    onInput() {
+        // 4.) show the keyboard
+        NativeModules.Keyboard.startInput({
+            placeholder: 'Enter your name',
+        }).then(input => console.log(input));
+    }
+
     render() {
         let tableContent = this.props.data.rows.map((row, rowIndex) => {
             return <View style={rowIndex === 0 ? styles.tableHeader : styles.tableRow}>
                 {row.map((cell, cellIndex) => {
-                        return <View style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
+                        return <View onInput={this.onInput} style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
                             <Text style={rowIndex === 0 ? {color: 'black', fontSize: 14} : {color: 'black', fontSize: 14, fontWeight: 'bold'}}>
                             {cell}</Text>
                         </View>
