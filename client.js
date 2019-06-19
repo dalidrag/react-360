@@ -3,6 +3,8 @@
 
 import {ReactInstance, Surface} from 'react-360-web';
 
+import KeyboardModule from 'react-360-keyboard/KeyboardModule';
+
 import data from './spreadsheetdata'
 
 const spreadSheetSurface1 = new Surface(
@@ -25,8 +27,15 @@ function init(bundle, parent, options = {}) {
   const r360 = new ReactInstance(bundle, parent, {
     // Add custom options here
     fullScreen: true,
+
+    nativeModules: [KeyboardModule.addModule],
+
     ...options,
   });
+
+  // 2.) pass the instance to the NativeModule, do this after creating your main
+  //     surface to ensure the keyboard is rendered on top of your scene
+  KeyboardModule.setInstance(r360);
 
   spreadSheetSurface1.setAngle(-0.6, 0);
   spreadSheetSurface2.setAngle(0, 0);
