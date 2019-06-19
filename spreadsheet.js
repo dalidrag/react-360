@@ -5,44 +5,31 @@ import {
     View,
     NativeModules
 } from 'react-360';
-/*let spreadsheetConfig = {
-    rows: 5,
-    columns: 5,
-    headColumn: true,
-    headColumnIsString: true,
-    headRow: true,
-    headRowIsString: true,
-    canAddRow: false,
-    canAddColumn: false,
-    emptyValueSymbol: '-',
-    letterNumberHeads: false
-};*/
 
-
-
-/*let cellClasses = {
-    rows: [
-        ['', '', '', '', '', '', '', ''],
-        ['green', '', '', '', '', '', '', 'dollar'],
-        ['purple', '', '', '', '', '', '', 'dollar'],
-        ['yellow', 'failed', '', '', '', '', '', 'dollar'],
-    ]
-};*/
 
 class Spreadsheet extends Component {
-    onInput(cell) {
+    state = {
+        data: this.props.data.rows,
+    };
+
+    onInput(cell, rowIndex, cellIndex) {
+        let newData = this.state.data;
         // 4.) show the keyboard
         NativeModules.Keyboard.startInput({
             initialValue: cell,
             placeholder: 'Enter your data',
-        }).then(input => console.log(input));
+        }).then((keyboardEntry) => {
+            newData[rowIndex][cellIndex] = keyboardEntry;
+
+            this.setState({data: newData});
+        });
     }
 
     render() {
-        let tableContent = this.props.data.rows.map((row, rowIndex) => {
+        let tableContent = this.state.data.map((row, rowIndex) => {
             return <View style={rowIndex === 0 ? styles.tableHeader : styles.tableRow}>
                 {row.map((cell, cellIndex) => {
-                        return <View onInput={() => this.onInput(cell)} style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
+                        return <View onInput={() => this.onInput(cell, rowIndex, cellIndex)} style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
                             <Text style={rowIndex === 0 ? {color: 'black', fontSize: 14} : {color: 'black', fontSize: 14, fontWeight: 'bold'}}>
                             {cell}</Text>
                         </View>
