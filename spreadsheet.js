@@ -30,10 +30,11 @@ import {
 };*/
 
 class Spreadsheet extends Component {
-    onInput() {
+    onInput(cell) {
         // 4.) show the keyboard
         NativeModules.Keyboard.startInput({
-            placeholder: 'Enter your name',
+            initialValue: cell,
+            placeholder: 'Enter your data',
         }).then(input => console.log(input));
     }
 
@@ -41,7 +42,7 @@ class Spreadsheet extends Component {
         let tableContent = this.props.data.rows.map((row, rowIndex) => {
             return <View style={rowIndex === 0 ? styles.tableHeader : styles.tableRow}>
                 {row.map((cell, cellIndex) => {
-                        return <View onInput={this.onInput} style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
+                        return <View onInput={() => this.onInput(cell)} style={ rowIndex !== 0 && cellIndex === 0 ? {width: "20%", borderRightWidth: 1} : {width: "20%"}}>
                             <Text style={rowIndex === 0 ? {color: 'black', fontSize: 14} : {color: 'black', fontSize: 14, fontWeight: 'bold'}}>
                             {cell}</Text>
                         </View>
